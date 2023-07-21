@@ -1,0 +1,17 @@
+body{
+	animation: body 5s ;
+}
+@keyframes body{
+    50%{
+        background-color: blue ;
+    }
+    
+    
+    
+}
+#front{
+	text-align: center;
+	margin: auto;
+	font-size: 80px;
+	color: white;
+}
